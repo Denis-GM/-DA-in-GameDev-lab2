@@ -45,8 +45,9 @@
 ![Снимок экрана (288)](https://user-images.githubusercontent.com/104080323/195115447-a7d13df6-a8cf-4fe9-8872-edee836b7c2f.png)
 ![Снимок экрана (289)](https://user-images.githubusercontent.com/104080323/195115461-93227873-de4f-44c5-b3d5-41bcd8f5cfa2.png)
 
-
-
+- Реализовать запись данных из скрипта на python в google-таблицу. Данные описывают изменение темпа инфляции на протяжении 11 отсчётных периодов, с учётом стоимости игрового объекта в каждый период
+![Снимок экрана (295)](https://user-images.githubusercontent.com/104080323/195120623-8ddb7684-eeb1-4bf5-bc26-57c190e3d8ab.png)
+![Снимок экрана (296)](https://user-images.githubusercontent.com/104080323/195120679-4b7b2d75-8c1d-4154-b11c-0173dfc2c164.png)
 
 
 
