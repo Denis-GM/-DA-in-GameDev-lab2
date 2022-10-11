@@ -54,12 +54,13 @@
 ![Снимок экрана (296)](https://user-images.githubusercontent.com/104080323/195120679-4b7b2d75-8c1d-4154-b11c-0173dfc2c164.png)
 
 - Создать новый проект на Unity, который будет получать данные из google-таблицы, в которую были записаны данные в предыдущем пункте
-- 
+
 ![Снимок экрана (302)](https://user-images.githubusercontent.com/104080323/195136859-c5bb12ca-0529-410c-abf5-4080f1438694.png)
 
 - Написать функционал на Unity, в котором будет воспроизводиться аудио-файл в зависимости от значения данных из таблицы.
 
-https://user-images.githubusercontent.com/104080323/195136659-fd83ac2f-c9b9-4122-bf89-8af3a476e00d.mov
+https://user-images.githubusercontent.com/104080323/195138580-28a0334b-27c6-4a46-9c42-c10ba730b066.mp4
+
 
 
 ## Задание 2
